@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+  color: var(--neutral-100);
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --neutral-10: #FFFFFF;
+  --neutral-20: #F5F5F5;
+  --neutral-30: #EDEDED;
+  --neutral-40: #D6D6D6; 
+  --neutral-50: #C2C2C2; 
+  --neutral-60: #878787; 
+  --neutral-70: #606060; 
+  --neutral-80: #383838; 
+  --neutral-90: #403A3A; 
+  --neutral-100: #101010; 
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.w-bold {
+  font-weight: 700;
+}
+
+.w-semibold {
+  font-weight: 600;
+}
+
+.w-medium {
+  font-weight: 500;
+}
+
+.w-regular {
+  font-weight: 400;
+}
+
+.size-64 {
+  font-size: 4rem;
+}
+
+.size-48 {
+  font-size: 3rem;
+}
+
+.size-32 {
+  font-size: 2rem;
+}
+
+.size-24 {
+  font-size: 1.5rem;
+}
+
+.size-18 {
+  font-size: 1.125rem;
+}
+
+.size-16 {
+  font-size: 1rem;
+}
+
+.size-14 {
+  font-size: .875rem;
+}
+
+.size-12 {
+  font-size: 0.75rem;
+}
