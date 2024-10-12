@@ -6,10 +6,10 @@ useHead({
 
 <template>
   <div>
-    <Header />
+    <CommonHeader />
     <main>
       <slot />
     </main>
-    <footer>footer</footer>
+    <CommonFooter />
   </div>
 </template>
