@@ -3,12 +3,12 @@
     <NuxtLink to="/">
       <img src="/logo.svg" alt="Logo">
     </NuxtLink>
-    <ul class="header__menu size-16">
+    <ul class="header__menu s-16">
       <li><NuxtLink to="/">Home</NuxtLink></li>
       <li><NuxtLink to="/about">About</NuxtLink></li>
       <li><NuxtLink to="/blog">Blog</NuxtLink></li>
       <li><NuxtLink to="/pricing">Pricing</NuxtLink></li>
-      <li class="contact w-semibold"><NuxtLink to="/contact">Contact Us -></NuxtLink></li>
+      <li class="contact w-sb"><NuxtLink to="/contact">Contact Us -></NuxtLink></li>
     </ul>
   </header>
 </template>

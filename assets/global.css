@@ -32,50 +32,50 @@
   margin: 0 auto;
 }
 
-.w-bold {
+.w-b {
   font-weight: 700;
 }
 
-.w-semibold {
+.w-sb {
   font-weight: 600;
 }
 
-.w-medium {
+.w-m {
   font-weight: 500;
 }
 
-.w-regular {
+.w-r {
   font-weight: 400;
 }
 
-.size-64 {
+.s-64 {
   font-size: 4rem;
 }
 
-.size-48 {
+.s-48 {
   font-size: 3rem;
 }
 
-.size-32 {
+.s-32 {
   font-size: 2rem;
 }
 
-.size-24 {
+.s-24 {
   font-size: 1.5rem;
 }
 
-.size-18 {
+.s-18 {
   font-size: 1.125rem;
 }
 
-.size-16 {
+.s-16 {
   font-size: 1rem;
 }
 
-.size-14 {
+.s-14 {
   font-size: .875rem;
 }
 
-.size-12 {
+.s-12 {
   font-size: 0.75rem;
 }
